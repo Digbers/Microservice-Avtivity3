@@ -16,6 +16,7 @@
 	<modules>
 		<module>eureka</module>
 		<module>ordenes</module>
+		<module>customer</module>
 	</modules>
 	<description>Demo project for Spring Boot</description>
 	<url/>
